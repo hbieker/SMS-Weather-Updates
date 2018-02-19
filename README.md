@@ -10,11 +10,10 @@ Get weather updates texted to you when keywords are in the forecast
 <li> A free Twilio account for sending SMS messages </li>
 </ul>
 <b> Source Data:</b><br>
-<img src="image002.jpg" alt="Coinmarketcap.com">
-<b> Output – CSV file saved to directory where script is ran: </b><br>
+<img src="image002.jpg" alt="">
+<b> Output: </b><br>
 <img src="image004.jpg" alt="CSV File Location">
-<b> Output – CSV file: </b><br>
-<img src="image006.jpg" alt="CSV File"><br>
+<br>
 <b> Future Enhancements:</b><br>
 <ul>
 <li> Schedule the script to run automatically</li>
