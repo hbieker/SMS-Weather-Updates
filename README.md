@@ -16,7 +16,7 @@ Get weather updates texted to you when keywords are in the forecast
 <br>
 <b> Future Enhancements:</b><br>
 <ul>
-<li> Schedule the script to run automatically</li>
+<li> Schedule the script to run automatically with Windows Task Scheduler</li>
 <li> Cleanup If statement code with Regular Expressions</li>
 <li> Modify code to send an e-mail instead of text </li>
 </ul>
