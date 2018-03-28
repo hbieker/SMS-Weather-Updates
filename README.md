@@ -7,10 +7,10 @@ Get weather updates texted to you when keywords are in the forecast
 <ul>
 <li> Python v3.x </li>
 <li> IDLE (or any other IDE of your choosing) </li>
-<li> A free Twilio account for sending SMS messages </li>
+<li> A free <a href="https://www.twilio.com/">Twilio account</a> for sending SMS messages </li>
 </ul>
 <b> Screenshots:</b><br><br>
-<img src="textmessage2.jpg" alt=""><br>
+<img src="textmessage2.jpg" alt="">
 <b> Future Enhancements:</b><br>
 <ul>
 <li> Schedule the script to run automatically with Windows Task Scheduler</li>
