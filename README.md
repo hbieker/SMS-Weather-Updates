@@ -10,7 +10,7 @@ Get weather updates texted to you when keywords are in the forecast
 <li> A free Twilio account for sending SMS messages </li>
 </ul>
 <b> Screenshots:</b><br>
-<img src="textmessage.jpg" alt="">
+<img src="textmessage2.jpg" alt="">
 <b> Future Enhancements:</b><br>
 <ul>
 <li> Schedule the script to run automatically with Windows Task Scheduler</li>
