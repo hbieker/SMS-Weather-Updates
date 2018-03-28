@@ -7,9 +7,9 @@ Get weather updates texted to you when keywords are in the forecast
 <ul>
 <li> Python v3.x </li>
 <li> IDLE (or any other IDE of your choosing) </li>
-<li> A free <a href="https://www.twilio.com/">Twilio account</a> for sending SMS messages </li>
+<li> A free <a href="https://www.twilio.com/">Twilio Account</a> for sending SMS messages </li>
 </ul>
-<b> Screenshots:</b><br><br>
+<b> Example Text Message:</b><br><br>
 <img src="textmessage2.jpg" alt="">
 <b> Future Enhancements:</b><br>
 <ul>
