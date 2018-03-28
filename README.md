@@ -9,8 +9,8 @@ Get weather updates texted to you when keywords are in the forecast
 <li> IDLE (or any other IDE of your choosing) </li>
 <li> A free Twilio account for sending SMS messages </li>
 </ul>
-<b> Screenshots:</b><br>
-<img src="textmessage2.jpg" alt="">
+<b> Screenshots:</b><br><br>
+<img src="textmessage2.jpg" alt=""><br>
 <b> Future Enhancements:</b><br>
 <ul>
 <li> Schedule the script to run automatically with Windows Task Scheduler</li>
